@@ -1,0 +1,4 @@
+fragment fieldError on FileError {
+  field
+  message
+}
